@@ -2,7 +2,7 @@
 
 这个项目是我关于Kubernetes集群以及相关生态组件的搭建的实战案例
 
-DEMO地址：https://kubernetes.cloudcrawler.club/ （登录需要使用Token，可以咨询我获取）
+DEMO地址：https://kubernetes.cloudcrawler.club/ （登录需要使用Token，可以在微信公众号《云爬虫技术研究笔记》里回复“token”获取）
 
 ## 已推出研究笔记
 1. 《kubernetesv1.17集群生态搭建笔记》
