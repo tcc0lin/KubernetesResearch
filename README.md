@@ -17,3 +17,5 @@ DEMO地址：https://kubernetes.cloudcrawler.club/ （登录需要使用Token，
 3. 《为了让大家能够看到K8S Dashboard DEMO，我创建了一个“只读用户”》
 
     - 对应脚本所在目录-**ClusterEcology/generate_readonly**
+    
+4. 《跨VPC或者跨云供应商搭建K8S集群正确姿势-番外篇》
