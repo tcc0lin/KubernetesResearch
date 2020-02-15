@@ -4,6 +4,7 @@
 这个项目是我关于Kubernetes集群以及相关生态组件的搭建的实战案例
 
 ~~DEMO地址：https://kubernetes.cloudcrawler.club/~~
+
 由于域名还未备案，因此，大家想要看到具体的**DEMO**效果，需求在**hosts**文件中加上以下两行：
 ```
 49.233.81.20 traefik.dashboard.lateautumn4lin
