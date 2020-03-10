@@ -14,7 +14,10 @@
 
 ### ✨ [Demo](https://kubernetes.cloudcrawler.club/)
 
-由于域名还未备案，因此，大家想要看到具体的**DEMO**效果，需求在**hosts**文件中加上以下两行：
+### 喜大普奔！域名备案通过了，大家以后想查看具体的DEMO，可以通过如下方式访问
+
+
+~~由于域名还未备案，因此，大家想要看到具体的**DEMO**效果，需求在**hosts**文件中加上以下两行：~~
 ```
 49.233.81.20 traefik.dashboard.lateautumn4lin
 49.233.81.20 kubernetes.dashboard.lateautumn4lin
@@ -24,8 +27,10 @@
 获取Token的Gist地址：https://gist.github.com/lateautumn4lin/201b69ff5ec34f0df73103b5337e5dda
 
 浏览器中访问：
-- Traefik Dashboard Demo: http://traefik.dashboard.lateautumn4lin
-- Kubernetes Dashboard Demo: https://kubernetes.dashboard.lateautumn4lin
+- ~~Traefik Dashboard Demo: http://traefik.dashboard.lateautumn4lin~~
+- Traefik Dashboard Demo: http://traefik.cloudcrawler.club
+- ~~Kubernetes Dashboard Demo: https://kubernetes.dashboard.lateautumn4lin~~
+- Kubernetes Dashboard Demo: https://kubernetes.cloudcrawler.club
 
 ## Install
 
